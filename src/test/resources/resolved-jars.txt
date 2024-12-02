@@ -1,0 +1,4 @@
+Library: Mikasa.Server:webapp-core:, Path: /Users/tomoya-k31/Workspace/code/github/gmo-media/Mikasa.Server/webapp-core/build/libs/mikasa.jar
+Library: :springmobile_mikasa-0.0.1:, Path: /Users/tomoya-k31/Workspace/code/github/gmo-media/Mikasa.Server/lib/core/springmobile_mikasa-0.0.1.jar
+Library: org.springframework.boot:spring-boot-starter-web-services:2.1.4.RELEASE, Path: /Users/tomoya-k31/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web-services/2.1.4.RELEASE/bb5492dd5d71311a477ebac6281ec64041612adf/spring-boot-starter-web-services-2.1.4.RELEASE.jar
+Library: dummy, Path: dummy.jar
